@@ -20,6 +20,7 @@ matplotlib
 ## Authors
 
 * **Tyler Wolfe** - *Initial work* - [WolfeTyler](https://github.com/WolfeTyler)
+* **Jorge Gil** -- Modifying
 
 ## License
 
