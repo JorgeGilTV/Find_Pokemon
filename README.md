@@ -14,6 +14,7 @@ You will need the following Python packages installed:
 ```
 numpy
 cv2
+matplotlib
 ```
 
 ## Authors
