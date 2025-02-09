@@ -12,9 +12,9 @@ Template matching in OpenCV is a technique for finding areas of an image that ar
 You will need the following Python packages installed:
 
 ```
-numpy
-cv2
-matplotlib
+pip install numpy
+pip install opencv-python  
+pip install matplotlib
 ```
 
 ## Authors

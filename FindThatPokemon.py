@@ -3,8 +3,8 @@ import cv2
 #import subprocess
 
 # Assign template and target images 
-image = cv2.imread('C:/Users/Python Scripts/FTM/Find_Pokemon/pokemon_2.jpg')
-template = cv2.imread('C:/Users/Python Scripts/FTM/Find_Pokemon/bulbasaur.png')
+image = cv2.imread('C:/Users/Angelina Gil/Documents/Scripts/Find_Pokemon/pokemon_2.jpg')
+template = cv2.imread('C:/Users/Angelina Gil/Documents/Scripts/Find_Pokemon/bulbasaur.png')
 
 # Resize images
 try:
